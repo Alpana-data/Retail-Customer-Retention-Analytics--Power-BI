@@ -13,8 +13,12 @@ Customer_Demographics.csv, Customer_Transactions.csv, Store_Locations.csv, Loyal
 # Tasks Performed
 Data Modeling & Cleaning, Churn & Retention Metrics, Repeat Purchase Analysis, Promotion & Loyalty Impact, Store & Channel Performance vs Retention, Customer Lifetime Value (CLV) Analysis, Dashboards creation using Visualization charts nad graphs. 
 # Key Insights
+
 Loyal customers prefer Home & Living and Apparel categories, indicating strong repeat demand in 
 lifestyle products. 
+
 Business shows strong retention with low churn and high repeat purchases. 
+
 Lower point redemption indicates a need for better loyalty engagement.  
+
 Introducing Targeted offers for basic tier customers, personalized promotions and easy point redemption can improve customer retention and loyalty value.
